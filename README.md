@@ -1,31 +1,10 @@
-## Welcome to my python materials
+# Welcome to my python github pages
+
+As a physicist, I need to work with large amounts of data, simulation, plotting, etc. For these tasks, python is the best language there is. These pages highlight my journey to learn python for scientific endeavors.
+
+- [Introduction](https://abdussamiakanda.github.io/python/introduction)
 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For more details about me visit [abdussamiakanda.com](https://abdussamiakanda.com) or email me at [abdussamiakanda@gmail.com](mailto:abdussamiakanda@gmail.com)
+Here are my social links:
