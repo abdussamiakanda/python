@@ -12,6 +12,6 @@ As a physicist, I need to work with large amounts of data, simulation, plotting,
 \
 \
 \
-For more details about me, visit [abdussamiakanda.com](https://abdussamiakanda.com) or email me at [abdussamiakanda@gmail.com](mailto:abdussamiakanda@gmail.com).\ \
-Here are my social links: [facebook](https://fb.com/mdabdussami.akanda/)
- 
+For more details about me, visit [abdussamiakanda.com](https://abdussamiakanda.com) or email me at [abdussamiakanda@gmail.com](mailto:abdussamiakanda@gmail.com).\
+\
+Here are my social links: [facebook](https://fb.com/mdabdussami.akanda/), [Linkedin](https://www.linkedin.com/in/md-abdus-sami-akanda/), [Researchgate](https://www.researchgate.net/profile/Md_Akanda2), [Youtube](https://www.youtube.com/channel/UC7yhrEJBWA5JTERVBmWNRUQ)
