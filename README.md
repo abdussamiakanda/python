@@ -4,7 +4,7 @@ As a physicist, I need to work with large amounts of data, simulation, plotting,
 
 ## My codes:
 
-- [Introduction to python - the basics](/python/introduction)
+- [Introduction to python - the basics](/python/introduction.html)
 
 
 
